@@ -1,0 +1,34 @@
+# Site settings
+title: SCW
+email: some-email@someddress.com
+name: Sean's Blog
+description: > # this means to ignore newlines until "baseurl:"
+  The personal blog of Sean C. Wang, commoner, idler, and college student at the University of California, Los Angeles.  
+ # Write an awesome description for your new site here. You can edit this
+ # line in _config.yml. It will appear in your document head meta (for
+ # Google search results) and in your feed.xml site description.
+
+
+
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+
+#access these variables with dot notation
+author_name: Sean Wang
+
+#Leave these blank since you don't have one
+twitter_username: 
+github_username: flamingwang
+facebook_username: seanc.wang 
+amazon_username: 2B7EE881J848W 
+
+# Build settings
+markdown: kramdown
+
+#Enable pagination (You have to actually implement this yourself)
+#paginate: 5 
+
+#tell jekyll to ignore divshot.json
+exclude:
+   - divshot.json
+   - firebase.json

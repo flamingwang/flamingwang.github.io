@@ -1,0 +1,9 @@
+{
+  "firebase": "my-awesome-site",
+  "public": "_site",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
