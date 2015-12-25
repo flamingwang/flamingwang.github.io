@@ -6,9 +6,65 @@
 </description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 24 Dec 2015 01:02:38 -0800</pubDate>
-    <lastBuildDate>Thu, 24 Dec 2015 01:02:38 -0800</lastBuildDate>
+    <pubDate>Thu, 24 Dec 2015 17:49:10 -0800</pubDate>
+    <lastBuildDate>Thu, 24 Dec 2015 17:49:10 -0800</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Opinionated: Part II</title>
+        <description>&lt;p&gt;There seems to be a direct relation between years I’ve been alive and number of things that annoy me. So much so that it’s time for another list of things I dislike.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Quarter-squats, quarter-pull-ups, quarter-push-ups, quarter anything in general&lt;/li&gt;
+  &lt;li&gt;Crying children on airplanes&lt;/li&gt;
+  &lt;li&gt;Bottled water which costs more than $1.25&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://translate.google.com/?ie=UTF-8&amp;amp;hl=en&amp;amp;client=tw-ob#auto/es/cloud&quot;&gt;Spanish clouds&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;People who post their political opinions on Facebook&lt;/li&gt;
+  &lt;li&gt;Individuals who have a net output to society which is negative&lt;/li&gt;
+  &lt;li&gt;Wetzels Pretzels&lt;/li&gt;
+  &lt;li&gt;Stupid people who think my waifu is shit when actually it is their waifu that is shit&lt;/li&gt;
+&lt;/ol&gt;
+
+</description>
+        <pubDate>Wed, 23 Dec 2015 19:00:00 -0800</pubDate>
+        <link>/opinions2/</link>
+        <guid isPermaLink="true">/opinions2/</guid>
+        
+        
+        <category>opinions</category>
+        
+      </item>
+    
+      <item>
+        <title>1220</title>
+        <description>&lt;p&gt;Those of you who know me in real life know that I’m not just some goober that rants online under the disguise of “blogging.” I have a life, and this life that revolves training and STUDying all the time. Sometimes the fruits of my labor pay off. Anyway, to keep things brief and mysterious, time for more training. I have lots of tests coming up that I want to ace.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 23 Dec 2015 17:00:00 -0800</pubDate>
+        <link>/nre/</link>
+        <guid isPermaLink="true">/nre/</guid>
+        
+        
+        <category>life</category>
+        
+      </item>
+    
+      <item>
+        <title>Migration</title>
+        <description>&lt;p&gt;After typing a bunch of stuff I do not understand into a terminal (i.e. a typical day with Linux), my blog has been migrated from &lt;a href=&quot;https://divshot.com/&quot;&gt;Divshot&lt;/a&gt; over to &lt;a href=&quot;https://pages.github.com/&quot;&gt;Github Pages&lt;/a&gt;. This is because Divshot is becoming a part of &lt;a href=&quot;https://www.firebase.com/&quot;&gt;Firebase&lt;/a&gt;, and I do not understand data enough to properly utilize the Firebase development platform. Moreover, I have to pay them $5 a month if I want to have a custom domain, but Github Pages lets me do this for free.&lt;/p&gt;
+
+&lt;p&gt;What all this means is you can read my blog at &lt;a href=&quot;https://flamingwang.github.io&quot;&gt;flamingwang.github.io&lt;/a&gt;, or you can read it at &lt;a href=&quot;http://www.seanwang.org&quot;&gt;seanwang.org&lt;/a&gt;, they are aliases of each other.&lt;/p&gt;
+
+&lt;p&gt;I personally prefer &lt;a href=&quot;http://www.seanwang.org&quot;&gt;seanwang.org&lt;/a&gt;, since this makes me seem like a legit organization.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 23 Dec 2015 16:00:00 -0800</pubDate>
+        <link>/migration/</link>
+        <guid isPermaLink="true">/migration/</guid>
+        
+        
+        <category>website</category>
+        
+      </item>
     
       <item>
         <title>Happy Birthday 39</title>
@@ -109,14 +165,6 @@
 
 &lt;p&gt;On the bright side, my &lt;a href=&quot;http://www.directv.com&quot;&gt;current summer job&lt;/a&gt; is the best I’ve ever had. It provides me with enough money to buy many things I’ve always wanted but never could afford. This means I can easily buy all of the things that are on my &lt;a href=&quot;http://amzn.com/w/2B7EE881J848W&quot;&gt;wishlist&lt;/a&gt;, I just still have that poor-guy mentality and am not used to spending large amounts of money… yet. Also, even though my current lifestyle is by no means considered wealthy (first-world standards), the end dream of video games and all-you-can-eat buffets every weekend is slowly becoming more realizable.&lt;/p&gt;
 
-&lt;p&gt;To end, if you are a particular someone who I think is reading this:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;ayyy lol gtfo&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Hope you can understand.&lt;/p&gt;
-
 </description>
         <pubDate>Fri, 07 Aug 2015 15:28:15 -0700</pubDate>
         <link>/write/</link>
@@ -175,57 +223,6 @@
         
         
         <category>struggles</category>
-        
-      </item>
-    
-      <item>
-        <title>YouTube Channels</title>
-        <description>&lt;p&gt;I spend a majority of my free time watching videos on YouTube and even when I am working on other stuff, I like leaving videos on in the background as a form of ambient noise. One of my favorite channels is &lt;a href=&quot;https://www.youtube.com/channel/UCsQnAt5I56M-qx4OgCoVmeA&quot;&gt;Trump&lt;/a&gt; a professional video game player who has daily streams and videos of him playing &lt;a href=&quot;http://us.battle.net/hearthstone/&quot;&gt;Hearthstone&lt;/a&gt;, a card game by Blizzard. Even though I have never played a game of Hearthstone in my life, there is just something about special about the game and the person playing it that makes it fun to watch. Often times, when I am working on papers or problem sets, I leave his channel on just to stay on task and productive. Perhaps Trump also reminds me of myself as I am extremely introverted and go to great lengths to avoid excessive interaction with others. Another channel I enjoy is &lt;a href=&quot;https://www.youtube.com/user/vice/&quot;&gt;VICE&lt;/a&gt; but the quality of their content has high variance and is heavily dependent on which member of their staff is reporting. Various other enjoyable channels include &lt;a href=&quot;https://www.youtube.com/user/thegodfatherdictator/&quot;&gt;TheGodfatherDictator&lt;/a&gt;, which I feel is one of the most underrated gaming channels out there, and FullPredatorEpisodes&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;, which contains archived episodes of the unintentionally hilarious show &lt;em&gt;To Catch a Predator&lt;/em&gt;.&lt;/p&gt;
-
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;Edit: FullPredatorEpisodes was taken down for copyright infringment. It was fun while it lasted. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Tue, 30 Dec 2014 14:28:15 -0800</pubDate>
-        <link>/trump/</link>
-        <guid isPermaLink="true">/trump/</guid>
-        
-        
-        <category>blog-filler</category>
-        
-      </item>
-    
-      <item>
-        <title>Building the Site</title>
-        <description>&lt;p&gt;I feel almost forced to create more posts so that my blog appear less “chode-ey” to any readers out there. That being said, this post is devoted to discussing the various site features, as well as justifications behind them. For starters, I made this site using the very user-friendly static site generator &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; and the current layout is just the base Jekyll theme with a few personalizing touches here and there. Inspiration for these special touches came from the Android holo-dark theme, which I really enjoy, as well as my school studies in electrical engineering. Any glow effects you may notice were done with care using Microsoft paint, so don’t expect anything too professional out of them.  On the footer of this site there are three available links for clicking: a &lt;a href=&quot;https://github.com/flamingwang&quot;&gt;GitHub&lt;/a&gt; link that does not have much activity, a &lt;a href=&quot;https://facebook.com/seanc.wang&quot;&gt;Facebook&lt;/a&gt; link that also does not have much activity, and (most importantly) an Amazon &lt;a href=&quot;http://amzn.com/w/2B7EE881J848W&quot;&gt;wish list&lt;/a&gt; for the extremely wealthy who want to get me something nice. Finally, as note for the academically-inclined out there: the dot convention is justified since there is a mutually coupled inductor hidden elsewhere in the site. My engineering instincts would never allow me to abuse circuit symbols, not even just for artistic purposes. That’s about all I have to say for now, hopefully my post count increases so the wide appearance of the site is alleviated. More posts to come, all in due time…&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 29 Dec 2014 14:28:15 -0800</pubDate>
-        <link>/building-the-site/</link>
-        <guid isPermaLink="true">/building-the-site/</guid>
-        
-        
-        <category>blog-filler</category>
-        
-      </item>
-    
-      <item>
-        <title>My First Blog Post</title>
-        <description>&lt;p&gt;To any potential readers,&lt;/p&gt;
-
-&lt;p&gt;This is first of possibly many blog posts on this site. To start things off, I am Sean C Wang, a college student studying at &lt;a href=&quot;http://www.ucla.edu&quot;&gt;UCLA&lt;/a&gt;. I have created this blog as a way to kill time during my Winter Break, but it may evolve into something more than that. My blog will mainly be about my daily experiences and thoughts, nothing too technical though, as that really isn’t what I’m good at. As a warning, the layout of this site may change sporadically since I want to mess around with the various features available. Images and pictures, if any, will be a rare occurrence, since, among various other reasons, I believe that every time a picture of me is taken, a piece of my soul disappears. Well, that’s about it for now, I hope my writings bring pleasure to you all. Feel free to email any feedback you may have to &lt;em&gt;seanwang22(at)ucla.edu&lt;/em&gt; and I will try my best to respond in a timely manner.&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 23 Dec 2014 14:34:15 -0800</pubDate>
-        <link>/hello-world</link>
-        <guid isPermaLink="true">/hello-world</guid>
-        
-        
-        <category>life</category>
         
       </item>
     
