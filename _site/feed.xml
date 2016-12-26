@@ -4,11 +4,47 @@
     <title>SCW</title>
     <description>The personal blog of Sean C. Wang, commoner, idler, and college student at the University of California, Los Angeles.  
 </description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 08 Jan 2016 11:18:04 -0800</pubDate>
-    <lastBuildDate>Fri, 08 Jan 2016 11:18:04 -0800</lastBuildDate>
-    <generator>Jekyll v2.4.0</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 25 Dec 2016 21:43:45 -0800</pubDate>
+    <lastBuildDate>Sun, 25 Dec 2016 21:43:45 -0800</lastBuildDate>
+    <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>Finishing up 2016</title>
+        <description>&lt;p&gt;After an almost year-long hiatus, I have returned to blogging, primarily to wrap up the &lt;a href=&quot;../resolutions2016&quot;&gt;list of resolutions&lt;/a&gt; I made at the start of the year. Most importantly, &lt;strong&gt;Resolution #1: Write at least one blog post per month&lt;/strong&gt; remains unfulfilled. This means I have rougly 6 days to write 10 blog posts, or face the shame of becoming a loser that was unable to complete his New Years resolutions. The exception to this is the sub 5:00 resolution, since, as year 2016 progressed, I realized that I would rather run a couple seconds slower, but be able to pick up significantly heavier objects, than the opposite. Without &lt;strong&gt;&lt;em&gt;TOOOT&lt;/em&gt;&lt;/strong&gt;-ing my own horn too much, the fate of all unmentioned resolutions should be pretty clear ☺.&lt;/p&gt;
+
+&lt;p&gt;On an unrelated note, I am currently recreationally studying certain particular East-Asian languages. Perhaps future blog posts will feature use of this kind of stuff.&lt;/p&gt;
+
+&lt;p&gt;Merry Christmas and Happy Holidays!&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 25 Dec 2016 17:00:00 -0800</pubDate>
+        <link>http://localhost:4000/resolving-resolutions/</link>
+        <guid isPermaLink="true">http://localhost:4000/resolving-resolutions/</guid>
+        
+        
+        <category>life</category>
+        
+      </item>
+    
+      <item>
+        <title>The Quest for Freedom</title>
+        <description>&lt;p&gt;One of my goals in life is to obtain lots of money, such that I become part of the 1%. This is not because I want to be a rich oppressive shitlord, but because money is true freedom, and I want to be free person. For example, the average wage worker does not truly have freedom of speech, since if he speaks his mind he can get fired. If he is fired and cannot find another source of income, he may soon not have enough money to afford basic food and shelter. Therefore, his lack of money restrains him from voicing any of his controversial opinions. Compare this to &lt;a href=&quot;https://en.wikipedia.org/wiki/Donald_Trump&quot;&gt;Donald Trump&lt;/a&gt;, who is able to voice all sorts of opinions without any fear of not having a place to live or food to eat. The goal therefore is to become like Donald Trump, not in political belief, but in wealth and power. When this happens I can finally release all my opinions, which, like vegetables, are unpopular but good for people.&lt;/p&gt;
+
+&lt;p&gt;AFAIK, there are only two ways to achieve this goal: be lucky or work hard. Since I can only control the latter way, I should work harder than everyone around me. This is easy since currently the only people around me are college students ☺.&lt;/p&gt;
+
+&lt;p&gt;Explaining the previous sentence would be opening a giant can of offense, something I do not yet have the power to do without reprecussion.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 11 Jan 2016 16:00:00 -0800</pubDate>
+        <link>http://localhost:4000/freedom/</link>
+        <guid isPermaLink="true">http://localhost:4000/freedom/</guid>
+        
+        
+        <category>life</category>
+        
+      </item>
     
       <item>
         <title>2016</title>
@@ -20,12 +56,12 @@
   &lt;li&gt;Get my mile time down to 5:00 or lower, and work my squat up to 2pl8 for reps (no skipping leg day)&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;Notice that &lt;strong&gt;lose weight&lt;/strong&gt; is not one of the goals, since that one is too easy &lt;a href=&quot;https://www.youtube.com/watch?v=-_6ula2m5fw&quot;&gt;(just amputate something).&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Notice that &lt;strong&gt;lose weight&lt;/strong&gt; is not one of the goals, since that one is too easy &lt;a href=&quot;https://www.youtube.com/watch?v=-_6ula2m5fw&quot;&gt;(one weird tip to lose weight fast!).&lt;/a&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Thu, 07 Jan 2016 16:00:00 -0800</pubDate>
-        <link>/resolutions2016/</link>
-        <guid isPermaLink="true">/resolutions2016/</guid>
+        <link>http://localhost:4000/resolutions2016/</link>
+        <guid isPermaLink="true">http://localhost:4000/resolutions2016/</guid>
         
         
         <category>life</category>
@@ -49,8 +85,8 @@
 
 </description>
         <pubDate>Wed, 23 Dec 2015 19:00:00 -0800</pubDate>
-        <link>/opinions2/</link>
-        <guid isPermaLink="true">/opinions2/</guid>
+        <link>http://localhost:4000/opinions2/</link>
+        <guid isPermaLink="true">http://localhost:4000/opinions2/</guid>
         
         
         <category>opinions</category>
@@ -62,8 +98,8 @@
         <description>&lt;p&gt;Those of you who know me in real life know that I’m not just some goober that rants online under the disguise of “blogging.” I have a life, and this life that revolves training and STUDying all the time. Sometimes the fruits of my labor pay off. Anyway, to keep things brief and mysterious, time for more training. I have lots of tests coming up that I want to ace.&lt;/p&gt;
 </description>
         <pubDate>Wed, 23 Dec 2015 17:00:00 -0800</pubDate>
-        <link>/nre/</link>
-        <guid isPermaLink="true">/nre/</guid>
+        <link>http://localhost:4000/nre/</link>
+        <guid isPermaLink="true">http://localhost:4000/nre/</guid>
         
         
         <category>life</category>
@@ -80,8 +116,8 @@
 
 </description>
         <pubDate>Wed, 23 Dec 2015 16:00:00 -0800</pubDate>
-        <link>/migration/</link>
-        <guid isPermaLink="true">/migration/</guid>
+        <link>http://localhost:4000/migration/</link>
+        <guid isPermaLink="true">http://localhost:4000/migration/</guid>
         
         
         <category>website</category>
@@ -98,8 +134,8 @@
 
 </description>
         <pubDate>Mon, 31 Aug 2015 15:28:15 -0700</pubDate>
-        <link>/vocaloid/</link>
-        <guid isPermaLink="true">/vocaloid/</guid>
+        <link>http://localhost:4000/vocaloid/</link>
+        <guid isPermaLink="true">http://localhost:4000/vocaloid/</guid>
         
         
         <category>music</category>
@@ -150,8 +186,8 @@
 &lt;/table&gt;
 </description>
         <pubDate>Sun, 16 Aug 2015 15:28:15 -0700</pubDate>
-        <link>/scammer/</link>
-        <guid isPermaLink="true">/scammer/</guid>
+        <link>http://localhost:4000/scammer/</link>
+        <guid isPermaLink="true">http://localhost:4000/scammer/</guid>
         
         
         <category>food</category>
@@ -163,7 +199,7 @@
         <description>&lt;p&gt;I get annoyed by seemingly harmless things. So, since it has been a while since I have written any blog posts, I have decided to make a list of some things I dislike. Perhaps some of you readers have these same pet peeves.&lt;/p&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;People who eat breakfast foods (i.e. cereal) for any other meal besides breakfast&lt;/li&gt;
+  &lt;li&gt;People who eat breakfast foods (cereal) for any other meal besides breakfast&lt;/li&gt;
   &lt;li&gt;People who don’t pick up after their dog&lt;/li&gt;
   &lt;li&gt;99% of all children&lt;/li&gt;
   &lt;li&gt;People who say “just be yourself” unironically&lt;/li&gt;
@@ -173,8 +209,8 @@
 &lt;/ol&gt;
 </description>
         <pubDate>Sat, 08 Aug 2015 15:28:15 -0700</pubDate>
-        <link>/peeves/</link>
-        <guid isPermaLink="true">/peeves/</guid>
+        <link>http://localhost:4000/peeves/</link>
+        <guid isPermaLink="true">http://localhost:4000/peeves/</guid>
         
         
         <category>life</category>
@@ -189,46 +225,11 @@
 
 </description>
         <pubDate>Fri, 07 Aug 2015 15:28:15 -0700</pubDate>
-        <link>/write/</link>
-        <guid isPermaLink="true">/write/</guid>
+        <link>http://localhost:4000/write/</link>
+        <guid isPermaLink="true">http://localhost:4000/write/</guid>
         
         
         <category>life</category>
-        
-      </item>
-    
-      <item>
-        <title>Schadenfreudic</title>
-        <description>&lt;p&gt;I find it strange how no one laughs when someone succeeds, yet all of the sudden, when terrible things happen, everything becomes hilarious. Even small things in life, such as noticing that someone’s day isn’t going as well as yours is, are amazingly &lt;a href=&quot;https://www.youtube.com/watch?v=TRFa6e63-iY&quot;&gt;delightful&lt;/a&gt;. BUT OF COURSE, bad things happening to people you dislike isn’t actually misfortune, it’s justice. And if it just so happens that you dislike most people out there&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;, then near all misfortune is basically justice being served. Of course, I’m still a decent human bean, and in public I always refrain from pointing and laughing at &lt;em&gt;justice&lt;/em&gt;. To end this post, don’t take anything I say too seriously. I’m just some commoner writing in his blog☺.&lt;/p&gt;
-
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;One pretty cool thing about going to a diverse &lt;a href=&quot;https://www.admissions.ucla.edu/campusprofile.htm&quot;&gt;college&lt;/a&gt; is instead of only learning to hate one or two groups of people, you grow to hate everyone. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Sat, 10 Jan 2015 14:28:15 -0800</pubDate>
-        <link>/schadenfreudic/</link>
-        <guid isPermaLink="true">/schadenfreudic/</guid>
-        
-        
-        <category>life</category>
-        
-      </item>
-    
-      <item>
-        <title>I am Computer Scientist?</title>
-        <description>&lt;p&gt;Every time I have to take a computer class, I feel it must be blatantly obvious to all the people around me that I am not actually a computer science major (well maybe not THAT obvious… I still remain Asian). I imagine for other people it’s probably a huge ego boost to sit next to the guy that needs to look at his fingers all the time when he’s typing. With that said, this quarter I am enrolled in a class called “Software Construction Laboratory,” and so far the goal has been learning how to read ambiguous specifications. It is either that, or Telepathy 101 was supposed to be a pre-requisite class but the school registrar forgot and let me enroll anyway. Only one week into school but already I feel myself becoming one with the ambiguity. Reminds me of drinking &lt;a href=&quot;http://en.wikipedia.org/wiki/Dr_Pepper&quot;&gt;Dr Pepper&lt;/a&gt; and solving trig problems involving &lt;a href=&quot;http://mathworld.wolfram.com/ASSTheorem.html&quot;&gt;one angle and two sides&lt;/a&gt;.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 07 Jan 2015 14:28:15 -0800</pubDate>
-        <link>/cs35l/</link>
-        <guid isPermaLink="true">/cs35l/</guid>
-        
-        
-        <category>computers</category>
         
       </item>
     
