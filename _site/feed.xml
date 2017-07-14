@@ -2,22 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SCW</title>
-    <description>The personal blog of Sean C. Wang, commoner, idler, and college student at the University of California, Los Angeles.  
+    <description>The personal blog of Sean C. Wang, commoner, idler, and former college student from The University of California, Los Angeles.  
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 26 Dec 2016 22:43:25 -0800</pubDate>
-    <lastBuildDate>Mon, 26 Dec 2016 22:43:25 -0800</lastBuildDate>
-    <generator>Jekyll v3.3.1</generator>
+    <pubDate>Fri, 14 Jul 2017 18:23:08 -0400</pubDate>
+    <lastBuildDate>Fri, 14 Jul 2017 18:23:08 -0400</lastBuildDate>
+    <generator>Jekyll v3.4.5</generator>
+    
+      <item>
+        <title>⚓ HardSHIPs ⚓</title>
+        <description>&lt;p&gt;To my loyal readers (if any actually exist)…I HAVE RETURNED!!&lt;/p&gt;
+
+&lt;p&gt;These past few months have been filled with various stressful events, most self-inflicted because of the occupation I have chosen and the life choices I have made. In particular, since I want to be a snooty pompous intellectual, I have chosen to be enrolled in two different graduate schools simultaneously. These graduate schools are in addition to my full-time job, which because of special reasons, I am not allowed to quit until at least 5 years. Upon posting my life choices on &lt;a href=&quot;https://facebook.com/seanc.wang&quot;&gt;Facebook&lt;/a&gt;, I realized how anti-intellectual most of my Facebook friends are, since less than 10 people liked my status. *&lt;em&gt;HMPH!&lt;/em&gt;* I am filled with high amounts of sodium chloride, since if it was a picture of my breakfast I could have at least 20 likes! To be fair, it might be because I do not like other people’s posts enough, and so they are hesistant to do the same for me. Alternatively, It could be just that I am just an unpleasant individual.&lt;/p&gt;
+
+&lt;p&gt;A secondary source of problems is the pain and suffering other people have inflicted on me. From this it is easy to become trapped in a state of depression, which I occassionally feel like doing. However, I am already in my twenties, and my youth and vigor is gradually draining out of me. I feel I should not expend too much effort in actions that do not improve my situation, and should instead just let things go (similar to that one &lt;a href=&quot;https://en.wikipedia.org/wiki/Frozen_(2013_film)&quot;&gt;Disney movie&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;Unrelated, I sometimes wonder if I would be happier had I pursued my passions, particularly passions such as “gourmet cooking” or causing other people misfortune. At the moment, pursuing these actions is just uncompensated labor, and I do &lt;strong&gt;NOT&lt;/strong&gt; like doing things I am good at for free… (^: . Alas, I have accepted that some of my most exceptional skills, such as cutting pineapples or peeling grapefruits are not as highly valued as my engineering skills, which are nowhere near as exceptional. Specifically, I am in top 0.1% of pineapple cutters and the top 0.01% of grapefruit peelers, yet society prefers for me to work as an engineer… and shows this preference with large pay disparities!!! They do not realize that whatever contributions I make as an engineer come at the opportunity cost of fewer finely prepared fruits…. that or no one particularly cares.&lt;/p&gt;
+
+&lt;p&gt;Finally, since I currently live far far away from where I used to live, and do nothing but work, sleep, eat, and ‘Maintenance Instructions (MI)’, I do not have anyone besides coworkers and immediate family to talk to. I also dislike going outside to meet people, since I have bad social skills and possibly latent agoraphobia. If anyone who reads this would like to be my virtual pen pal, please contact me someway/somehow (at your own risk) and we can exchange correspondence but likely never meet up in person.&lt;/p&gt;
+
+&lt;p&gt;Hopefully more posts coming soon…&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 13 Jul 2017 20:00:00 -0400</pubDate>
+        <link>http://localhost:4000/too-much-sodium/</link>
+        <guid isPermaLink="true">http://localhost:4000/too-much-sodium/</guid>
+        
+        
+        <category>life</category>
+        
+      </item>
     
       <item>
         <title>&quot;Autism Likely&quot;</title>
         <description>&lt;p&gt;Today I took a &lt;a href=&quot;http://psychcentral.com/quizzes/autism.htm&quot;&gt;online quiz&lt;/a&gt; regarding autism, and the result indicated that I was “likely suffering from an autism spectrum disorder” with a score of 35. Without a doubt, this must be because of all those &lt;a href=&quot;https://en.wikipedia.org/wiki/MMR_vaccine_controversy&quot;&gt;silly vaccines&lt;/a&gt; I got as a kid…(^: ~ Jokes aside, the result is slightly unsettling, but it offers a convenient explanation for why I have deficiencies in social interaction, and perhaps also why I have greater mathematic and scientific abilities. Regarding my use of “greater,” it is not just my personal feeling, but it is because I recently graduated college with a particular honor that has &lt;a href=&quot;https://en.wiktionary.org/wiki/summa_cum_laude&quot;&gt;three extra ‘m’s&lt;/a&gt; to it (and sounds kind of disgusting too). I will eventually update the rest of my blog as well as my resume to reflect this particular detail.&lt;/p&gt;
 
-&lt;p&gt;Anyway, according to this &lt;a href=&quot;http://www.nbcnews.com/id/7030731/&quot;&gt;article&lt;/a&gt;, people with mild forms of autism (also known as Asperger Syndrome) have a selective advantage in concentration, and so can potentially accomplish greater intellectual feats than their non-autismic counterparts. Even though I cannot possibly compare myself to actual geniuses, it means there is hope for me to eventually become a productive member of society, rather than some sort of degenerate…&lt;/p&gt;
+&lt;p&gt;Anyway, according to this &lt;a href=&quot;http://www.nbcnews.com/id/7030731/&quot;&gt;Internet article&lt;/a&gt;, people with mild forms of autism (also known as Asperger Syndrome) have a selective advantage in concentration, and so can potentially accomplish greater intellectual feats than their non-autismic counterparts. Even though I cannot possibly compare myself to actual geniuses, it means there is hope for me to eventually become a productive member of society, rather than some sort of degenerate…&lt;/p&gt;
 
 </description>
-        <pubDate>Sun, 25 Dec 2016 16:00:00 -0800</pubDate>
+        <pubDate>Sun, 25 Dec 2016 19:00:00 -0500</pubDate>
         <link>http://localhost:4000/slightly-autistic/</link>
         <guid isPermaLink="true">http://localhost:4000/slightly-autistic/</guid>
         
@@ -39,7 +63,7 @@
 &lt;p&gt;8 more posts to go…&lt;/p&gt;
 
 </description>
-        <pubDate>Sat, 24 Dec 2016 17:00:00 -0800</pubDate>
+        <pubDate>Sat, 24 Dec 2016 20:00:00 -0500</pubDate>
         <link>http://localhost:4000/purity/</link>
         <guid isPermaLink="true">http://localhost:4000/purity/</guid>
         
@@ -57,7 +81,7 @@
 &lt;p&gt;Merry Christmas and Happy Holidays!&lt;/p&gt;
 
 </description>
-        <pubDate>Sat, 24 Dec 2016 16:00:00 -0800</pubDate>
+        <pubDate>Sat, 24 Dec 2016 19:00:00 -0500</pubDate>
         <link>http://localhost:4000/resolving-resolutions/</link>
         <guid isPermaLink="true">http://localhost:4000/resolving-resolutions/</guid>
         
@@ -75,7 +99,7 @@
 &lt;p&gt;Explaining the previous sentence would be opening a giant can of offense, something I do not yet have the power to do without reprecussion.&lt;/p&gt;
 
 </description>
-        <pubDate>Mon, 11 Jan 2016 16:00:00 -0800</pubDate>
+        <pubDate>Mon, 11 Jan 2016 19:00:00 -0500</pubDate>
         <link>http://localhost:4000/freedom/</link>
         <guid isPermaLink="true">http://localhost:4000/freedom/</guid>
         
@@ -97,7 +121,7 @@
 &lt;p&gt;Notice that &lt;strong&gt;lose weight&lt;/strong&gt; is not one of the goals, since that one is too easy &lt;a href=&quot;https://www.youtube.com/watch?v=-_6ula2m5fw&quot;&gt;(one weird tip to lose weight fast!).&lt;/a&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Thu, 07 Jan 2016 16:00:00 -0800</pubDate>
+        <pubDate>Thu, 07 Jan 2016 19:00:00 -0500</pubDate>
         <link>http://localhost:4000/resolutions2016/</link>
         <guid isPermaLink="true">http://localhost:4000/resolutions2016/</guid>
         
@@ -122,7 +146,7 @@
 &lt;/ol&gt;
 
 </description>
-        <pubDate>Wed, 23 Dec 2015 19:00:00 -0800</pubDate>
+        <pubDate>Wed, 23 Dec 2015 22:00:00 -0500</pubDate>
         <link>http://localhost:4000/opinions2/</link>
         <guid isPermaLink="true">http://localhost:4000/opinions2/</guid>
         
@@ -135,7 +159,7 @@
         <title>1220</title>
         <description>&lt;p&gt;Those of you who know me in real life know that I’m not just some goober that rants online under the disguise of “blogging.” I have a life, and this life that revolves training and STUDying all the time. Sometimes the fruits of my labor pay off. Anyway, to keep things brief and mysterious, time for more training. I have lots of tests coming up that I want to ace.&lt;/p&gt;
 </description>
-        <pubDate>Wed, 23 Dec 2015 17:00:00 -0800</pubDate>
+        <pubDate>Wed, 23 Dec 2015 20:00:00 -0500</pubDate>
         <link>http://localhost:4000/nre/</link>
         <guid isPermaLink="true">http://localhost:4000/nre/</guid>
         
@@ -153,7 +177,7 @@
 &lt;p&gt;I personally prefer &lt;a href=&quot;http://www.seanwang.org&quot;&gt;seanwang.org&lt;/a&gt;, since this makes me seem like a legit organization.&lt;/p&gt;
 
 </description>
-        <pubDate>Wed, 23 Dec 2015 16:00:00 -0800</pubDate>
+        <pubDate>Wed, 23 Dec 2015 19:00:00 -0500</pubDate>
         <link>http://localhost:4000/migration/</link>
         <guid isPermaLink="true">http://localhost:4000/migration/</guid>
         
@@ -168,67 +192,13 @@
 
 &lt;p&gt;Thanks for all the gaming and fun memories, but also for motivation to keep going on the stressful days when I just wanted to give up. The future is uncertain but I hope to remain a loyal fan for all of my life.&lt;/p&gt;
 
-&lt;p&gt;As a side note, I have uploaded a newer version of my &lt;a href=&quot;/resources/resume.pdf&quot;&gt;resume&lt;/a&gt;, take a look at it and reach out to me if you see anything you like.&lt;/p&gt;
-
 </description>
-        <pubDate>Mon, 31 Aug 2015 15:28:15 -0700</pubDate>
+        <pubDate>Mon, 31 Aug 2015 18:28:15 -0400</pubDate>
         <link>http://localhost:4000/vocaloid/</link>
         <guid isPermaLink="true">http://localhost:4000/vocaloid/</guid>
         
         
         <category>music</category>
-        
-      </item>
-    
-      <item>
-        <title>Soup Scammer</title>
-        <description>&lt;p&gt;I’ve been learning lots from my summer internship, and have discovered an extremely efficient but incredibly EVIL way of getting a nutritious filling meal for low cost. I have named this strategy &lt;strong&gt;Soup Scamming&lt;/strong&gt; and it involves going to the soup counter, draining out the watery portions of a soup, and then only scooping the solid portions. This means you squeeze a full meal out of the soup of the day, but the poor schmuck who wants soup after you is only left with watery stuff. Below is a list of soups and their resulting outcomes after scamming.&lt;/p&gt;
-
-&lt;p&gt;IMPORTANT NOTE: Out of compassion for your fellow human beans you should &lt;abbr title=&quot;But you will anyway&quot;&gt;NEVER&lt;/abbr&gt; do this…&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Soup&lt;/th&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Scammer&lt;/th&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Schmuck&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Chicken Noodle    &lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Chicken Pasta&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Chicken Water&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Minestrone&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Pasta in Red Sauce   &lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Tomato Water&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Pozole&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Maize and Meat&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Spicy Water&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Chili&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Extra Meaty Chili&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Watery Chili&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Clam Chowder&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Clam and Potatoes&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Clam-Flavored Cream&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-</description>
-        <pubDate>Sun, 16 Aug 2015 15:28:15 -0700</pubDate>
-        <link>http://localhost:4000/scammer/</link>
-        <guid isPermaLink="true">http://localhost:4000/scammer/</guid>
-        
-        
-        <category>food</category>
         
       </item>
     

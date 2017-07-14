@@ -3,11 +3,10 @@ layout: page
 title: About
 permalink: /about/
 ---
-I am an electrical engineering [college][1] student with the dream of one day working as an electrical engineer of some sort. Though I am neither bright nor talented, what I lack in brainpower I make up with sheer effort and hard work. Other than school, I enjoy watching videos on [Youtube][2], playing with my two pet dogs, and learning languages (both programming and foreign). If you are interested in the life of a commoner, feel free to stick around and read a couple posts. If you are a company recruiter, consider taking a look at this [resume][3] I try to solicit employers with. 
+I am an electrical engineering cubicle minion of some sort. Though I am neither bright nor talented, what I lack in brainpower I make up with sheer effort and hard work. Other than work, I enjoy watching videos on [Youtube][2], playing with my two pet dogs, and learning languages (both programming and foreign). If you are interested in the life of a commoner, feel free to stick around and read a couple posts. 
 
-Finally, if you are incredibly wealthy, please consider buying a gift on my Amazon [wishlist][4] for me ☺.
+Finally, if you are incredibly wealthy, please consider buying a gift on my Amazon [wishlist][3] for me ☺.
 
 [1]: http://www.ucla.edu
 [2]: https://www.youtube.com
-[3]: /resources/resume.pdf
-[4]: http://amzn.com/w/2B7EE881J848W
+[3]: http://amzn.com/w/2B7EE881J848W
