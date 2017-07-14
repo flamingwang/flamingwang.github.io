@@ -20,4 +20,4 @@ Finally, since I currently live far far away from where I used to live, and do n
 Hopefully more posts coming soon...
 
 [1]: https://facebook.com/seanc.wang
-[2]: https://en.wikipedia.org/wiki/Frozen_(2013_film)
+[2]: https://www.youtube.com/watch?v=moSFlvxnbgk
