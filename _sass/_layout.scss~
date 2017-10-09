@@ -327,8 +327,6 @@
  */
 .pagination {
     a {
-     -webkit-transition: color 2s ease-out 0s;
-     transition: color 2s ease-out 0s;
      &:hover{
      text-decoration: none;
      color: $miku-blue;
