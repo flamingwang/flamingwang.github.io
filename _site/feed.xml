@@ -6,9 +6,55 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 25 Dec 2017 19:06:43 -0500</pubDate>
-    <lastBuildDate>Mon, 25 Dec 2017 19:06:43 -0500</lastBuildDate>
+    <pubDate>Sun, 04 Feb 2018 00:47:30 -0500</pubDate>
+    <lastBuildDate>Sun, 04 Feb 2018 00:47:30 -0500</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <title>Special Blog Post (Fitness Edition)</title>
+        <description>&lt;p&gt;Though I am not in any way trying to say I am more fitter than anyone else, I have done enough exercise to have learned a unique and helpful set of tips and tricks. For credibility, &lt;a href=&quot;/resources/fitness_pic.jpg&quot;&gt;here (NSFW)&lt;/a&gt; is a picture of me wearing my Black Rock Shooter hat and carrying some distilled water. I am really shy and self-conscious so please do not bully me. Also, I am taking a mirror-selfie because I have no friends to take pics of me, and it is awkward to ask this sort of thing to strangers. Without further word fluff, here are my four tips for successful fitness endeavors:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Have your only source of potable water be the water fountain at the gym. When you run out of water and are &lt;strong&gt;THIRSTY&lt;/strong&gt; you have no choice but to go to the gym. This incentivizes you to work out so that your fellow gym-goers think you are one of them … and not just some dude who keeps stealing the water.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Imagine your &lt;a href=&quot;/vocaloid/&quot;&gt;beloved waifu&lt;/a&gt; is cheering you on so you have no choice but to do your very best to impress her. This technique is particularly effective if your waifu is a pure 2D maiden, who loves and appreciates all your hard work and dedication, rather than some disgusting 3DPD.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Channel all your repressed anger from past occurrences when people mistreated you. Imagine the weight is the collective oppression imposed by these haters, and do your best to fight against it.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Accept the fact that you are already dead inside. Realize that going to the gym is the only thing that gives you a temporary, albeit transient, feeling of being alive.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+</description>
+        <pubDate>Sat, 03 Feb 2018 08:00:00 -0500</pubDate>
+        <link>http://localhost:4000/fitn-ness/</link>
+        <guid isPermaLink="true">http://localhost:4000/fitn-ness/</guid>
+        
+        
+        <category>fitness</category>
+        
+      </item>
+    
+      <item>
+        <title>Old and Bitter</title>
+        <description>&lt;p&gt;Yesterday was my 24th birthday so I actively and wishfully checked my Facebook to see how many people would say Happy Birthday to me. This year around 5.8% of my friends in some way wished me Happy Birthday, which is nice, but I was greedily hoping for at least 10%. As a result, I will be bitter for the next couple of days, but will eventually let it go.&lt;/p&gt;
+
+&lt;p&gt;I have already compiled the names of those who wished me Happy Birthday into a “treat these people extremely kindly” list, and placed everyone else in a “did not wish me Happy Birthday in 2018” list. When society collapses I will reference these two lists to determine who to save during the subsequent Purge. These hypothetical conversations will begin with something along the lines of: “Remember that time you didn’t wish me Happy Birthday to me in 2018?”&lt;/p&gt;
+
+&lt;p&gt;It seems every year the amount of people in the “treat kindly” list decreases, probably because I am a naturally reclusive individual, or because I am unpopular and unpleasant. I predict 2019 will be a lower percentage turnout, but I hope I am pleasantly (rather than unpleasantly) surprised.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 03 Feb 2018 07:00:00 -0500</pubDate>
+        <link>http://localhost:4000/birthday2018/</link>
+        <guid isPermaLink="true">http://localhost:4000/birthday2018/</guid>
+        
+        
+        <category>birthday</category>
+        
+      </item>
     
       <item>
         <title>My Blood is Salt</title>
@@ -209,46 +255,6 @@
         <pubDate>Sat, 24 Dec 2016 19:00:00 -0500</pubDate>
         <link>http://localhost:4000/resolving-resolutions/</link>
         <guid isPermaLink="true">http://localhost:4000/resolving-resolutions/</guid>
-        
-        
-        <category>life</category>
-        
-      </item>
-    
-      <item>
-        <title>The Quest for Freedom</title>
-        <description>&lt;p&gt;One of my goals in life is to obtain lots of money, such that I become part of the 1%. This is not because I want to be a rich oppressive shitlord, but because money is true freedom, and I want to be free person. For example, the average wage worker does not truly have freedom of speech, since if he speaks his mind he can get fired. If he is fired and cannot find another source of income, he may soon not have enough money to afford basic food and shelter. Therefore, his lack of money restrains him from voicing any of his controversial opinions. Compare this to &lt;a href=&quot;https://en.wikipedia.org/wiki/Donald_Trump&quot;&gt;Donald Trump&lt;/a&gt;, who is able to voice all sorts of opinions without any fear of not having a place to live or food to eat. The goal therefore is to become like Donald Trump, not in political belief, but in wealth and power. When this happens I can finally release all my opinions, which, like vegetables, are unpopular but good for people.&lt;/p&gt;
-
-&lt;p&gt;AFAIK, there are only two ways to achieve this goal: be lucky or work hard. Since I can only control the latter way, I should work harder than everyone around me. This is easy since currently the only people around me are college students ☺.&lt;/p&gt;
-
-&lt;p&gt;Explaining the previous sentence would be opening a giant can of offense, something I do not yet have the power to do without reprecussion.&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 11 Jan 2016 19:00:00 -0500</pubDate>
-        <link>http://localhost:4000/freedom/</link>
-        <guid isPermaLink="true">http://localhost:4000/freedom/</guid>
-        
-        
-        <category>life</category>
-        
-      </item>
-    
-      <item>
-        <title>2016</title>
-        <description>&lt;p&gt;Though not much has changed, since it is a new year it feels appropriate to make some resolutions. From past years I have learned that the more of these resolutions I make, the less likely any of them ever get accomplished. To avoid that this year so I will keep the list brief and simple.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Write at least one blog post per month (this post counts for January)&lt;/li&gt;
-  &lt;li&gt;Get my GPA up to at least 3.9 truncated (not rounded)&lt;/li&gt;
-  &lt;li&gt;Get my mile time down to 5:00 or lower, and work my squat up to 2pl8 for reps (no skipping leg day)&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Notice that &lt;strong&gt;lose weight&lt;/strong&gt; is not one of the goals, since that one is too easy &lt;a href=&quot;https://www.youtube.com/watch?v=-_6ula2m5fw&quot;&gt;(one weird tip to lose weight fast!).&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 07 Jan 2016 19:00:00 -0500</pubDate>
-        <link>http://localhost:4000/resolutions2016/</link>
-        <guid isPermaLink="true">http://localhost:4000/resolutions2016/</guid>
         
         
         <category>life</category>
