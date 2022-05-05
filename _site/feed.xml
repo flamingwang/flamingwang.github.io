@@ -6,9 +6,37 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 04 May 2022 15:38:15 -0400</pubDate>
-    <lastBuildDate>Wed, 04 May 2022 15:38:15 -0400</lastBuildDate>
+    <pubDate>Wed, 04 May 2022 20:19:10 -0400</pubDate>
+    <lastBuildDate>Wed, 04 May 2022 20:19:10 -0400</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Lasers and the InP-roper Use of Dating Apps</title>
+        <description>&lt;p&gt;Consider the word “&lt;a href=&quot;https://en.wikipedia.org/wiki/Laser&quot;&gt;laser&lt;/a&gt;” which is really an acronym for “light amplification by stimulated emission of radiation” with the key words being “stimulated emission of radiation”.  In particular, a laser contains electrons from an excited energy state which are falling to a lower energy state primarily via stimulated emission to produce coherent photons.&lt;/p&gt;
+
+&lt;p&gt;Furthermore, recall a necessary condition for stimulated emission to dominate over absorption is a condition called &lt;a href=&quot;https://en.wikipedia.org/wiki/Population_inversion&quot;&gt;population inversion&lt;/a&gt;, meaning the population of electrons at the excited energy state is greater than the population of electrons at the lower energy state.  Population inversion is also called “negative temperature” because it matches the thermodynamic equilibrium populations of a system at negative temperature.&lt;/p&gt;
+
+&lt;p&gt;Finally, consider semiconductor lasers (say Indium Phosphide [&lt;a href=&quot;https://en.wikipedia.org/wiki/Indium_phosphide&quot;&gt;InP&lt;/a&gt;]), which are always direct bandgap and usually heterostructures to allow for carrier confinement.  The semiconductor material is degenerately doped and can be thought of as “un-deplete-able”, since a PN junction of this material in forward bias has &lt;a href=&quot;https://en.wikipedia.org/wiki/Quasi_Fermi_level&quot;&gt;Quasi-Fermi levels&lt;/a&gt; which establish an inversion (rather than depletion) region where population inversion is achieved.&lt;/p&gt;
+
+&lt;p&gt;Now consider dating apps (say Tinder, Hinge, Bumble, or CMB), where arguably the goal is to stimulate emission of c………ompanionship and romance.  Specifically, profiles from a excited state (presumably you swiped on these profiles because they “excited” your interest) should fall to a matched state primarily via the stimulated emission of romance.&lt;/p&gt;
+
+&lt;p&gt;In this case, we realize population inversion is a necessary condition for the above romance to occur, and can hypothesize various techniques to establish such a condition.  We also realize that “population inversion” for dating apps can also be called “negative standards” because it matches the swiped and un-swiped populations of a dating app user with negative standards.  We finally ponder if “negative standards” can in reality truly exist, because SURELY nobody is swiping right on everyone, including all the people they are not interested in and all the people who are not aligned with their values and intentions.&lt;/p&gt;
+
+&lt;p&gt;Using our knowledge of the semiconductor approach, a way to create population inversion may be to become very degenerate, to the point of having a thirst that is “un-quench-able”.  Presumably this would allow for the creation of an inversion region where the desired population inversion condition can be achieved.  Those familiar with rubies or gas lasers could probably think of different approaches.&lt;/p&gt;
+
+&lt;p&gt;I suspect the creators of these dating apps know about these scientific techniques and so issue shadow and direct bans to dissuade people from using them - Yet another unfortunate example of how institutions are standing in the way of important scientific research.&lt;/p&gt;
+
+&lt;p&gt;Note:  This blog post is an elaboration of a conversation I had with one of my mutuals on IG.  I am still in a lot of emotional pain these days but am dealing with it.  Google thinks I am a science blogger so might as well write about some &lt;a href=&quot;https://www.youtube.com/watch?v=vPwaXytZcgI&quot;&gt;science&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 04 May 2022 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/lasering/</link>
+        <guid isPermaLink="true">http://localhost:4000/lasering/</guid>
+        
+        
+        <category>dating</category>
+        
+      </item>
     
       <item>
         <title>Workouts and Exercise</title>
@@ -290,32 +318,6 @@ compassionate individual.&lt;/p&gt;
         
         
         <category>birthday</category>
-        
-      </item>
-    
-      <item>
-        <title>My Blood is Salt</title>
-        <description>&lt;p&gt;As the new year approaches I feel like it is as good a time as any to reflect on and post about what has occurred this year.&lt;/p&gt;
-
-&lt;p&gt;This year’s experiences have caused me to dislike most common social behaviors and strongly wish that those responsible for them would just go away. In other words my sodium levels have increased to the point that my blood is pretty much just highly corrosive seawater, and is getting continuously saltier every day. Among the most sodium inducing events in my life are things such as viewing social media, seeing people not re-rack their weights at the gym, and the annoying fashion sense of the bourgeoisie all around me.&lt;/p&gt;
-
-&lt;p&gt;In the past, I was always trying to think of ways I could change the behavior of others but lately I have mellowed out and &lt;a href=&quot;http://seanwang.org/settlements/&quot;&gt;&lt;strong&gt;&lt;em&gt;SETTLED&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; on the fact that it is much better to simply mind my own business. Excess sodium consumption is avoided by focusing on my own personal happiness and letting others do so as well. Moreover, if their behavior is degenerate and causes self-inflicted misfortune, I can use schadenfreude to convert that misfortune into personal happiness. The process is similar to how plants use photosynthesis to convert carbon dioxide into glucose and oxygen, except carbon dioxide is the misfortune of others and glucose+oxygen is personal happiness. This also reminds me of the quote by Gandhi about being the change you want to see in the world, rather than trying to force that change onto others.&lt;/p&gt;
-
-&lt;p&gt;As if enough edginess has not already been infused into this post, I am also getting to that age where I sometimes use the Internet to search up people that have mistreated me in the past. Upon doing so, it is delightful to see that most of them have not ended up well. As mentioned already in a &lt;a href=&quot;http://seanwang.org/schadenfreudic/&quot;&gt;previous post&lt;/a&gt;, bad things happening to bad people is not really “misfortune”, but is more appropriately called “justice.” Almost as if I were watching the movie &lt;em&gt;Titanic&lt;/em&gt;, it warms my heart and brings a tear to my eye to see that there is lots of “justice” occurring in the world. In fact, just today I randomly thought about someone who was unpleasant to me when I was younger, looked them up, and discovered that life has not treated them well. The increase in my happiness felt like believing once again that Santa exists and has left many presents for me underneath a Christmas tree.&lt;/p&gt;
-
-&lt;p&gt;Finally, unrelated to everything above, I have recently a minor pay increase at my job. It is nothing significant to write home about, but nevertheless contributes to increasing my overall happiness. So far I have spent  ALLLL of it on financing my various frivolous pursuits… like organic food.&lt;/p&gt;
-
-&lt;p&gt;Special shoutouts to a special individual who made very stylish piece of clothing for me. 10/10 would recommend. Would spare from the Purge if society collapses (^: .&lt;/p&gt;
-
-&lt;p&gt;❄❄Merry Christmas and Happy Holidays❄❄&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 25 Dec 2017 07:00:00 -0500</pubDate>
-        <link>http://localhost:4000/saltiness/</link>
-        <guid isPermaLink="true">http://localhost:4000/saltiness/</guid>
-        
-        
-        <category>life</category>
         
       </item>
     
